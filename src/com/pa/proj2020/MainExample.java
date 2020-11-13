@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package smartgraph.view;
+package com.pa.proj2020;
 
 import java.util.Random;
 import java.util.logging.Level;

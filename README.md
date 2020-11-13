@@ -20,5 +20,8 @@ Disponibiliza:
 #### Nota 3: Testes JUnit 
 - devem ser gerados abaixo da diretoria Test seguindo a estrutura de packages da source
 
-#### Nota 4: SmartGraphPanel
-Ver README_SMARTGRAPH.md
+#### Nota 4: Documentação
+
+Para além da documentação *Javadoc* das classes desenvolvidas, 
+deverá editar este ficheiro com o conteúdo solicitado no 
+enunciado do projeto (remova todo o conteúdo atual).
