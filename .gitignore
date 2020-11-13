@@ -4,6 +4,8 @@
 /build/
 /dist/
 **/javadoc/
+/.idea/
+*.iml
 
 # Hanging html files
 *.html
